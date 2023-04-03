@@ -1,4 +1,4 @@
-# RL-Windy-Grid-World(SARSA and_Q-learning) 
+# RL-Windy-Grid-World(SARSA and_Q-learning) 🐰
 
 ![image](https://user-images.githubusercontent.com/67517025/229214100-4e3190a2-4e8b-4374-87fb-c35f3874f2a6.png)
 
